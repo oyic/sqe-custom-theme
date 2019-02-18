@@ -7,7 +7,8 @@ This is a package specifically for WordPress Development in macOS environment.
 1. npm :metal:
 
 ## Installation
-1.  Clone `git clone https://github.com/oyic/sqe-custom [folder-choice]` to your theme folder.
+1. On your theme folder, open a terminal.
+2.  Issue these command `git clone https://github.com/oyic/sqe-custom-theme.git [folder-choice]`.
 
 ## Usage
 * ```npm install``` - install necessary dependencies.
